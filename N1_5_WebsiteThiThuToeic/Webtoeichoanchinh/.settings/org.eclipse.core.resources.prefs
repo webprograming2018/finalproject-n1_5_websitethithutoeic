@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/View/Admin/Insertgrammarguidelinecontent.jsp=UTF-8
+encoding//WebContent/View/Header.jsp=UTF-8
+encoding//WebContent/View/Home.jsp=UTF-8
+encoding//WebContent/View/Register.jsp=UTF-8
+encoding//src/Controller/Grammarguidelinecontentcontroller.java=UTF-8
+encoding//src/Controller/Logincontroller.java=UTF-8
+encoding//src/Controller/Registercontroller.java=UTF-8
+encoding//src/DAO/GrammarguidelinemanageDAO.java=UTF-8
